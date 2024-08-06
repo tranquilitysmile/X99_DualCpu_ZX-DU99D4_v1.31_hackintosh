@@ -1,6 +1,7 @@
 # X99_DualCpu_ZX-DU99D4_v1.31_hackintosh
 Kllisre X99 Dual CPU ZX-DU99D4 v1.31 Hackintosh Sequoia
-![telegram-cloud-photo-size-2-5301197491603103807-y](https://github.com/user-attachments/assets/0d992af6-fa15-4821-8403-f49933dbb5d2)
+![telegram-cloud-photo-size-2-5301197491603103813-y](https://github.com/user-attachments/assets/6def324b-7e9a-4dd6-8edf-20d353d4cce1)
+
 
 ## Specification
 | **Component** | **Model** |
