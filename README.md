@@ -12,3 +12,21 @@ Kllisre X99 Dual CPU ZX-DU99D4 v1.31 Hackintosh Sequoia
 | WIFI+BT | Fenvi T919 |
 | OS Disk (SATA) | Samsung 980 512 GB NVME SSD |
 
+## Before start
+
+- MacOS have CPU Core limit (64 cores) in my case with x2 Intel Xeon E5 2699 v3, i disable 2 core on both CPU in bios, without it system can't boot
+- You should use exactly same bios settings like in repo BIOS folder, most of problem with booting installer and system in bios settings
+- I use self made bios mod with -50mv undervolting and turbo boost unlock, but it's not necessary to start the system
+
+**macOS version**: 15 beta 4
+
+**OpenCore version**: 1.1
+
+**SMBIOS**:  iMacPro1,1
+
+## Working
+- Everything except sleep/wake (can't work on X99 platform with dual cpu)
+
+## Disclaimer
+
+This documentation is published for the sole purpose of learning and tech enthusiasm and with no guarantees of any kind, I’m not responsible of any harm of any kind or loss of data that may occur.
