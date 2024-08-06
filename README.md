@@ -16,6 +16,7 @@ Kllisre X99 Dual CPU ZX-DU99D4 v1.31 Hackintosh Sequoia
 
 - MacOS have CPU Core limit (64 cores) in my case with x2 Intel Xeon E5 2699 v3, i disable 2 core on both CPU in bios, without it system can't boot
 - You should use exactly same bios settings like in repo BIOS folder, most of problem with booting installer and system in bios settings
+- For working WiFi/BT/Airdrop etc...you should use OpenCore Legacy Patcher Developers builds from https://github.com/dortania/OpenCore-Legacy-Patcher
 - I use self made bios mod with -50mv undervolting and turbo boost unlock, but it's not necessary to start the system
 
 **macOS version**: 15 beta 4
