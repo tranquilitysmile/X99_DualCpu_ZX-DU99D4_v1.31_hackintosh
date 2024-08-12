@@ -1,5 +1,5 @@
 # X99_DualCpu_ZX-DU99D4_v1.31_hackintosh
-Kllisre X99 Dual CPU ZX-DU99D4 v1.31 Hackintosh Sequoia
+Kllisre/Atermiter X99 Dual CPU ZX-DU99D4 v1.31 Hackintosh Sequoia
 ![telegram-cloud-photo-size-2-5301197491603103813-y](https://github.com/user-attachments/assets/6def324b-7e9a-4dd6-8edf-20d353d4cce1)
 
 
@@ -7,7 +7,7 @@ Kllisre X99 Dual CPU ZX-DU99D4 v1.31 Hackintosh Sequoia
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | Intel Xeon E5 2699 v3 @ 3.6GHz x2 (Unlock Turbo Boost with bios mod) |
-| Motherboard | Kllisre X99 Dual CPU ZX-DU99D4 v1.31|
+| Motherboard | Kllisre/Atermiter X99 Dual CPU ZX-DU99D4 v1.31|
 | RAM | 64GB Micron MTA18ASF1G72PZ ECC REG 2133 (8 slots 8 gb) |
 | GPU | AsRock RX 6600 XT Phantom Gaming OC 8G  |
 | Ethernet | RTL8111H |
